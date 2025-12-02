@@ -1,4 +1,4 @@
-# Antioquia Coffee Website ☕️
+# Antioquia Coffee Website 
 
 A modern and responsive website for a local coffee shop, built with clean and semantic HTML and CSS.  
 Designed to showcase a business online through a professional landing page structure.
