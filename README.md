@@ -3,13 +3,7 @@
 A modern and responsive website for a local coffee shop, built with clean and semantic HTML and CSS.  
 Designed to showcase a business online through a professional landing page structure.
 
----
 
-##  Live Demo
-Visit the deployed website: *(Add your Netlify link here)*
-
-Example:
-https://antioquiacoffee.netlify.app
 
 ---
 
