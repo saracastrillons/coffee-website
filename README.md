@@ -36,5 +36,5 @@ https://antioquiacoffee.netlify.app
 
 ---
 
-## 📦 Project Structure
+
 
